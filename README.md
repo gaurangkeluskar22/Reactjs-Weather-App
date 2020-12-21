@@ -1,9 +1,11 @@
 # Reactjs Weather App
 Weather app built using "Reactjs" and "OpeanWeather" API.
 
-<img src="./images/full.png"></img>
+<img src="./images/full.png" width="700"></img>
 <br></br>
-<img src="./images/search.png"></img>
+<img src="./images/search.png" width="700"></img>
 <hr>
-<img src="./images/short.png"></img>
-<img src="./images/itely.png"></img>
+<div>
+<img src="./images/short.png" width="350"></img>
+<img src="./images/itely.png" width="350"></img>
+<div>
