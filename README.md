@@ -5,7 +5,7 @@ Weather app built using "Reactjs" and "OpeanWeather" API.
 <br></br>
 <img src="./images/search.png"></img>
 
-<div>
-<img src="./images/short.png" width="350"></img>
+<p align="center">
+<img src="./images/short.png" width="350"></img>&nbsp;&nbsp;
 <img src="./images/itely.png" width="350"></img>
-<div>
+</p>
