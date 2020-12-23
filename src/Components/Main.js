@@ -8,7 +8,7 @@ function Main() {
     if (search.trim()) {
       console.log(search);
       const res = await axios.get(
-        `http://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=e11ee957319b252699b8964811b0089c`
+        `https://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=e11ee957319b252699b8964811b0089c`
       );
 
       console.log(await res.data);
@@ -22,7 +22,7 @@ function Main() {
         var lat = position.coords.latitude;
         var lon = position.coords.longitude;
         const res = await axios.get(
-          `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&units=metric&appid=e11ee957319b252699b8964811b0089c`
+          `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&units=metric&appid=e11ee957319b252699b8964811b0089c`
         );
         console.log(await res.data);
         setsearchweatherdata(await res.data);
