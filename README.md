@@ -1,5 +1,6 @@
 # Reactjs Weather App
-(https://reactjs-weatherapp1.netlify.app)<br>
+https://reactjs-weatherapp1.netlify.app
+<br>
 Weather app built using "Reactjs" and "OpeanWeather" API.
 
 <img src="./images/full.png"></img>
